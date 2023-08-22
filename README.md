@@ -1,4 +1,12 @@
 # oil_and_gas_analysis_2017-2023
+
+Throughout the analysis, it's important to emphasize that the models and strategies explored represent a foundational and relatively simple approach to understanding the dynamics of the energy commodities market. While these initial models provided valuable insights and demonstrated potential profitability, they can be considered as starting points or building blocks.
+
+The real potential lies in refining and expanding upon these foundational models. With the incorporation of more sophisticated techniques, advanced statistical methods, and potentially machine learning algorithms, the model's accuracy and profitability can be greatly enhanced. By integrating external factors, such as geopolitical events, macroeconomic indicators, and other relevant data sources, the model can become even more robust, adaptive, and capable of navigating the intricacies of the commodities market.
+
+In essence, while the current models offer promising initial results, the journey towards a truly robust and high-performing trading strategy has just begun. The groundwork laid here paves the way for a more comprehensive, dynamic, and adaptive system that can capitalize on the myriad opportunities within the energy sector.
+
+
 CTA style trend following analysis on E-Mini Futures using both discrete and stochastic models to test predictability. 
 
 ## 1. Data Loading and Initial Exploration:
@@ -31,8 +39,3 @@ Discussed the potential of integrating the insights from various analyses to dev
 Explored potential sell points for the project, emphasizing the opportunities in the energy sector and the potential for diversification and risk management.
 Throughout the session, we combined statistical methods, econometric modeling, and quantitative trading strategies to gain insights into the relationships and dynamics of the three energy commodities. The analyses provided foundational knowledge and potential directions for further refining and developing trading strategies.
 
-Throughout the analysis, it's important to emphasize that the models and strategies explored represent a foundational and relatively simple approach to understanding the dynamics of the energy commodities market. While these initial models provided valuable insights and demonstrated potential profitability, they can be considered as starting points or building blocks.
-
-The real potential lies in refining and expanding upon these foundational models. With the incorporation of more sophisticated techniques, advanced statistical methods, and potentially machine learning algorithms, the model's accuracy and profitability can be greatly enhanced. By integrating external factors, such as geopolitical events, macroeconomic indicators, and other relevant data sources, the model can become even more robust, adaptive, and capable of navigating the intricacies of the commodities market.
-
-In essence, while the current models offer promising initial results, the journey towards a truly robust and high-performing trading strategy has just begun. The groundwork laid here paves the way for a more comprehensive, dynamic, and adaptive system that can capitalize on the myriad opportunities within the energy sector.
